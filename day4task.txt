@@ -1,0 +1,18 @@
+hi. this is day 4 task.
+
+
+what is shall script  ------
+--------------------------------
+
+Shell scripting is a way of automating tasks on a computer by writing a set of instructions that the computer can follow. It's like writing a recipe for the computer to follow, where you tell it exactly what to do step by step.
+
+For example, let's say you want to download a bunch of files from the internet every day. Instead of manually going to the website and downloading each file one by one, you could write a shell script to do it for you. The script would tell the computer which files to download, where to save them, and when to do it. Once the script is written and saved, you could run it anytime you want, and the computer would automatically download all the files for you without you having to do anything else.
+
+Shell scripting is a very powerful tool that can save you a lot of time and effort, especially when you need to perform the same task repeatedly. It's also a great way to learn more about how computers work, and to develop your problem-solving skills. With a little practice, you can become proficient in shell scripting and use it to automate all kinds of tasks on your computer.
+
+
+#!bin/bash -----------
+-------------------------
+The #!/bin/bash line is called a shebang, and it tells the computer to use the Bash program to run the commands in the script. Bash is a popular shell program that is included with most Linux distributions. By including the shebang at the beginning of your script, you can ensure that the commands in the script will be run using Bash, regardless of which shell program is the default on your system.
+
+So, in summary, the #!/bin/bash line is an important part of a shell script because it tells the computer which program to use to run the commands in the script
