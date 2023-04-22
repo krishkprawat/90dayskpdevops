@@ -1,1 +1,2 @@
 # 90dayskpdevops
+This repository is part of my journey to learn DevOps concepts. As a beginner, I am starting with the basics of Git and version control. This repository contains a simple README.md file that I created as part of my learning process. My goal is to get more comfortable with Git and version control, as well as to eventually learn more advanced DevOps concepts like infrastructure as code and continuous integration/continuous delivery (CI/CD). I welcome any feedback or suggestions as I continue to learn and grow in my DevOps journey.
