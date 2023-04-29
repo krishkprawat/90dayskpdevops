@@ -1,3 +1,7 @@
+#write a script to take input from end user and as an arguments.
+
+
+
 #!/bin/bash
 
 # Take user input
