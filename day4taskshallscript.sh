@@ -11,4 +11,5 @@ echo "Your favorite color is $color."
 echo "The first argument is: $1"
 echo "The second argument is: $2"
 echo "The third argument is: $3"
-
+ 
+echo "thank you!"
