@@ -14,6 +14,23 @@ done
 
 
 
+# now here is a script to backup our file into a some another folder
+
+#!/bin/bash
+
+# set the source and destination paths
+src_dir="/home/vagrant"
+dest_dir="/home/vagrant/backupdolder"
+
+# set the filename for the backup
+backup_filename="my_backup.tar"
+
+# set the filename of the file to backup
+file_tobackup="script4.sh"
+
+# create the backup archive
+tar -cvf "${dest_dir}/${backup_filename}" "${src_dir}/${file_tobackup}"
+cd "$dest_dir"
 
 
 
